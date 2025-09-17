@@ -21,6 +21,7 @@
 | 이준영 | [@junDevCodes](https://github.com/junDevCodes) | 1주차 리드 |
 | 심미진 | [@azure-553](https://github.com/azure-553) | 팀장 |
 | 류연승 | [@winifred114](https://github.com/winifred114) | 2주차 리드 |
+| 송준서 | [@Junseo5](https://github.com/Junseo5) | 3주차 리드 |
 =======
 | ... | ... | ... |
 
