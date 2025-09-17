@@ -1,0 +1,23 @@
+```gitignore
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build files
+*.exe
+*.class
+*.o
+
+# Temporary files
+*.tmp
+*~
+
+# Personal notes (제외하고 싶은 개인 메모)
+personal_notes/
+*.private
