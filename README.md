@@ -19,6 +19,7 @@
 | Name | GitHub | 담당 주차 |
 |------|--------|-----------|
 | 이준영 | [@junDevCodes](https://github.com/junDevCodes) | 1주차 리드 |
+| 심미진 | [@azure-553](https://github.com/azure-553) | 팀장 |
 | 류연승 | [@winifred114](https://github.com/winifred114) | 2주차 리드 |
 | ... | ... | ... |
 
@@ -32,11 +33,11 @@
 
 ### 커밋 메시지 규칙
 - feat: 문제 해결
-- **ex)** feat: BOJ_1234_스택 문제 해결
+    - **ex)** feat: BOJ_1234_스택 문제 해결
 - fix: 코드 구조 개선
-- **ex)** fix: PGS_L2_괄호변환 시간복잡도 개선
+    - **ex)** fix: PGS_L2_괄호변환 시간복잡도 개선
 - docs: 회고 작성
-- **ex)** docs: week01 회고 작성
+    - **ex)** docs: week01 회고 작성
 
 ## 🔄 PR 규칙
 
@@ -51,11 +52,11 @@
 
 ### 브랜치 전략
 - `main`: 모든 멤버의 승인된 코드 통합
-- `feature/이름-날짜` 또는 `feature/이름-문제번호`: 개인 작업 브랜치
-- 브랜치명 예시: `feature/홍길동-1201`, `feature/홍길동-BOJ1234`
+- `feature/@username-week-{주차별 인덱스}`: 개인 작업 브랜치
+- 브랜치명 예시: `feature/azure-553-week-1`
 
 ### 개인 브랜치 관리 방식
-- 각자 **본인 members/이름/ 폴더만** 작업
+- 각자 **본인 members/@username/ 폴더만** 작업
 - PR시 **본인 폴더 변경사항만** 포함
 - main 브랜치에는 **전체 멤버 통합 관리**
 
