@@ -20,6 +20,8 @@
 |------|--------|-----------|
 | 이준영 | [@junDevCodes](https://github.com/junDevCodes) | 1주차 리드 |
 | 심미진 | [@azure-553](https://github.com/azure-553) | 팀장 |
+| 류연승 | [@winifred114](https://github.com/winifred114) | 2주차 리드 |
+=======
 | ... | ... | ... |
 
 ## 📁 폴더 구조 및 네이밍 규칙
