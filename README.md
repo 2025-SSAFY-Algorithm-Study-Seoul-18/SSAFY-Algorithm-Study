@@ -18,10 +18,10 @@
 
 | Name | GitHub | 역할 | 알고리즘 등급 |
 |------|--------|-----------|---|
-| 이준영 | [@junDevCodes](https://github.com/junDevCodes) | 팀원 | IM |
 | 심미진 | [@azure-553](https://github.com/azure-553) | 팀장 | X |
+| 이준영 | [@junDevCodes](https://github.com/junDevCodes) | 팀원 | IM |
 | 류연승 | [@winifred114](https://github.com/winifred114) | 팀원 | A |
-=======
+| 송준서 | [@Junseo5](https://github.com/Junseo5) | 팀원 | A |
 | ... | ... | ... |
 
 ## 📁 폴더 구조 및 네이밍 규칙
