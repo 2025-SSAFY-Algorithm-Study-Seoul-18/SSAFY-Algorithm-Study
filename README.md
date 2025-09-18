@@ -18,8 +18,8 @@
 
 | Name | GitHub | 역할 | 알고리즘 등급 |
 |------|--------|-----------|---|
-| 심미진 | [@azure-553](https://github.com/azure-553) | 팀장 | X |
-| 이준영 | [@junDevCodes](https://github.com/junDevCodes) | 팀원 | IM |
+| 심미진 | [@azure-553](- [https://github.com/azure-553) |] 팀장 | X |
+| 이준영 | [@junDevCodes](- [https://github.com/junDevCodes) | 팀원] | IM |
 | 류연승 | [@winifred114](https://github.com/winifred114) | 팀원 | A |
 | 송준서 | [@Junseo5](https://github.com/Junseo5) | 팀원 | A |
 | ... | ... | ... |
@@ -74,9 +74,38 @@
 ## 📚 학습 자료
 
 ### 플랫폼별 문제 추천
-- [백준 단계별 문제](https://www.acmicpc.net/step)
-- [프로그래머스 스쿨](https://school.programmers.co.kr/)
-- [SWEA 학습 코스](https://swexpertacademy.com/)
+<details>
+<summary>📘 백준 알고리즘 IM 대비</summary>
+
+- [백준 알고리즘 IM 대비 1](https://www.acmicpc.net/workbook/view/23765)  
+- [백준 알고리즘 IM 대비 2](https://www.acmicpc.net/workbook/view/14608)  
+- [백준 알고리즘 IM 대비 3](https://www.acmicpc.net/workbook/view/8399)  
+- [백준 알고리즘 IM 대비 4](https://www.acmicpc.net/workbook/view/14613)  
+- [백준 알고리즘 IM 대비 5](https://www.acmicpc.net/workbook/view/7091)  
+- [백준 알고리즘 IM 대비 6](https://www.acmicpc.net/workbook/view/19766)  
+- [백준 알고리즘 IM 대비 7](https://www.acmicpc.net/workbook/view/19767)  
+
+</details>
+
+<details>
+<summary>📙 백준 알고리즘 A형 대비</summary>
+
+- [백준 알고리즘 A형 대비 1](https://www.acmicpc.net/workbook/view/2771)  
+- [백준 알고리즘 A형 대비 2](https://www.acmicpc.net/workbook/view/1152)  
+- [백준 알고리즘 A형 대비 3](https://www.acmicpc.net/workbook/view/13158)  
+- [백준 알고리즘 A형 대비 4](https://www.acmicpc.net/workbook/view/13978)  
+- [백준 알고리즘 A형 대비 5](https://www.acmicpc.net/workbook/view/3176)  
+- [백준 알고리즘 A형 대비 6](https://www.acmicpc.net/workbook/view/15150)  
+
+</details>
+
+<details>
+<summary>📕 백준 알고리즘 B형 대비</summary>
+
+- [백준 알고리즘 B형 대비 1](https://www.acmicpc.net/workbook/by/ssomeones_coding)  
+- [백준 알고리즘 B형 대비 2](https://www.acmicpc.net/workbook/view/2163)  
+
+</details>
 
 ### 알고리즘 분류별 학습
 - [ ] 구현
