@@ -1,0 +1,1 @@
+{"name":"Local: BOJ_26042","url":"/Users/simmijin/Project/SSAFY-Algorithm-Study/Members/azure-553/BOJ/BOJ_26042.py","tests":[{"id":1759470778782,"input":"5\n1 2\n1 1\n2\n1 3\n2","output":"2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/simmijin/Project/SSAFY-Algorithm-Study/Members/azure-553/BOJ/BOJ_26042.py","group":"local","local":true}
