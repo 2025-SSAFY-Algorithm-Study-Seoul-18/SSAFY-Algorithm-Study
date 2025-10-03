@@ -8,7 +8,7 @@ stack = []
 
 for i in range(order_n):
     # 명령을 담을 배열
-    number_li = input().split()
+    number_li = sys.stdin.readline().split()
 
     # 맨 앞 요소가 1이라면
     if number_li[0] == '1':
